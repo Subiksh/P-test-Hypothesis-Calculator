@@ -6,6 +6,9 @@ import sys
 
 x=[6.6, 6.5, 9, 10.3, 11.3, 8.1, 6.3, 11.6]
 y=[6.8, 2.4, 7.4, 8.5, 8.1, 6.1, 3.4, 2]
+
+#Amend the values of X and Y and run the program
+
 d=[]
 d_round=[]
   # using zip to get iterables of list1 and list2
